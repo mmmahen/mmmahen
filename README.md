@@ -1,4 +1,4 @@
-# Mahendran .M | Senior Systems & Infrastructure Engineer 🛡️
+# Mahendran .M | Senior Systems & Network Engineer 🛡️
 
 [LinkedIn](https://linkedin.com/in/mahendran-m) | Dubai, UAE | +971 50 1323 044 | mmmahen15@gmail.com
 
@@ -16,10 +16,9 @@ Network & Infrastructure Support Engineer with **15+ years of experience** in en
 ---
 
 ### 🚀 Technical Labs & Tooling
-- **[Helpdesk Ticketing Lab](https://github.com/mmmahen/helpdesk-ticketing-lab)**: Dockerized osTicket environment for ITSM workflow practice.
-- **[Python CLI Toolkit](https://github.com/mmmahen/Python-CLI-Toolkit)**: Security & networking utility kit (Ping sweeper, IP lookup, Password gen).
-- **[Vulnerability Scanner](https://github.com/mmmahen/Vulnerability-Scanner-Python-Flask-)**: Flask-based web app for automated security checks.
-- **[Linux Permissions Lab](https://github.com/mmmahen/Linux-User-Permissions-Management-Lab)**: Practical sysadmin scripting for user/group auditing.
+- **[VMware vSphere & ESXi Configuration](https://github.com/mmmahen/vmware-esxi-config)**: Administration of enterprise virtualization, vMotion, and vSAN.
+- **[FortiGate 80E Firewall Configuration](https://github.com/mmmahen/fortigate-80e-config)**: IPsec VPN, SD-WAN, and Security Policy implementation.
+- **[Wireshark Protocol Analysis Lab](https://github.com/mmmahen/wireshark-capture-lab)**: Live packet capture and network traffic analysis.
 
 ---
 
