@@ -1,4 +1,4 @@
-# Mahendran M | Senior Systems & Network Engineer 🛡️
+# Mahendran Manoharan | Senior Systems & Network Engineer 🛡️
 
 [LinkedIn](https://www.linkedin.com/in/mmmahen) | Dubai, UAE | +971 50 1323 044 | mmmahen15@gmail.com
 **Status**: Immediate Joiner | **GitHub**: [github.com/mmmahen](https://github.com/mmmahen)
