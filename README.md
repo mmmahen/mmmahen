@@ -10,9 +10,11 @@ System Administrator with **15+ years of experience** in enterprise IT infrastru
 
 ### 🛠️ Core Competencies
 
-*   **Systems & Cloud:** Windows Server 2012–2022 (AD, GPO, DNS, DHCP) • VMware vSphere (ESXi, vCenter) • Hyper-V • **Microsoft Azure** (VMs, VNets, IAM) • Microsoft 365.
-*   **Networking & Security:** TCP/IP • VLAN • MPLS • OSPF • VPN • FortiGate Firewall (NAT, IPSec/SSL VPN, Policies) • Veeam Backup & DR • Trellix Endpoint Security.
-*   **Specialized Systems:** CCTV & Surveillance (IP Cameras, NVR/DVR) • Video Conferencing (Teams, Zoom, Tandberg) • Incident & SLA Management.
+| Category | Technical Expertise |
+| :--- | :--- |
+| **Systems & Cloud** | Windows Server 2012–2022 (AD, GPO, DNS, DHCP), VMware vSphere (ESXi, vCenter), Hyper-V, **Microsoft Azure** (VMs, VNets, IAM), Microsoft 365 |
+| **Networking & Security** | TCP/IP, VLAN, MPLS, OSPF, VPN, FortiGate Firewall (NAT, IPSec/SSL VPN, Policies), Veeam Backup & DR, Trellix Endpoint Security |
+| **Specialized Systems** | CCTV & Surveillance (IP Cameras, NVR/DVR), Video Conferencing (Teams, Zoom, Tandberg), Incident & SLA Management |
 
 ---
 
