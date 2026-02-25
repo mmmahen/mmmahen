@@ -19,9 +19,12 @@ System Administrator with **15+ years of experience** in enterprise IT infrastru
 ---
 
 ### 🚀 Technical Projects & Labs
-- **[VMware vSphere & ESXi Configuration](https://github.com/mmmahen/vmware-esxi-config)**: Administration of enterprise virtualization, vMotion, and vSAN.
-- **[FortiGate 80E Firewall Configuration](https://github.com/mmmahen/fortigate-80e-config)**: IPsec VPN, SD-WAN, and Security Policy implementation.
-- **[Wireshark Protocol Analysis Lab](https://github.com/mmmahen/wireshark-capture-lab)**: Live packet capture and network traffic analysis.
+
+| Lab / Project | Technical Focus & Key Deliverables |
+| :--- | :--- |
+| **[VMware vSphere & ESXi](https://github.com/mmmahen/vmware-esxi-config)** | Administration of enterprise virtualization, vMotion, clustering, and VM lifecycle operations. |
+| **[FortiGate 80E Firewall](https://github.com/mmmahen/fortigate-80e-config)** | IPSec/SSL VPN, SD-WAN, security policies, and NAT management for multi-ISP environments. |
+| **[Wireshark Protocol Analysis](https://github.com/mmmahen/wireshark-capture-lab)** | Live packet capture, network traffic analysis (ICMP, DNS, TCP), and troubleshooting. |
 
 ---
 
